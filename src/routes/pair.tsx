@@ -17,6 +17,7 @@ const terms = [
   ["treasury", facts.treasury],
   ["owner", facts.owner],
   ["contract", facts.contract],
+  ["lock", facts.lock],
   ["liquidity wallet", facts.wallet],
 ] as const;
 

@@ -15,6 +15,7 @@ export const facts = {
   treasury: "0xFc8a8f57142f53c4a48fBf44fb72a2864c92B6c6",
   owner: "None",
   contract: "0x08F50Aa5A2200A32427E3Eb78bd127A979952Ff6",
+  lock: "0xCAEBCa71b8c0d0e2bD8035FAE7A95289984Fa4e7",
   subject: "https://x.com/EliBenSasson/status/2108110129572741426",
   starknetPost: "https://x.com/Starknet/status/2108113391525204034",
 } as const;
