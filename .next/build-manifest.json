@@ -1,46 +1,51 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
+  "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/M9VkVwpx95olxdGB3EtMS/_buildManifest.js",
+    "static/M9VkVwpx95olxdGB3EtMS/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-aa09e2a824a9e256.js",
+      "static/chunks/pages/index-7846491c1b84c6c5.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-aa09e2a824a9e256.js",
+      "static/css/9d2fcfda73edde0e.css",
+      "static/chunks/pages/_app-1b1a05a60752ff8b.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-aa09e2a824a9e256.js",
+      "static/chunks/pages/_error-77823ddac6993d35.js"
     ],
     "/buy": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/buy.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-aa09e2a824a9e256.js",
+      "static/chunks/pages/buy-08d05a052732e604.js"
     ],
     "/method": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/method.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-aa09e2a824a9e256.js",
+      "static/chunks/pages/method-7393ac31ac01e152.js"
     ],
     "/tokenomics": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/tokenomics.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-aa09e2a824a9e256.js",
+      "static/chunks/pages/tokenomics-89a01fc82b06d62b.js"
     ]
   },
   "ampFirstPages": []

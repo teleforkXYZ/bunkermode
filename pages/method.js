@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { Nav, Footer, SITE } from './_shared'
+import { Nav, Footer, SITE } from '../components/shared'
 
 export default function Method() {
   return (
