@@ -6,7 +6,7 @@ pragma solidity ^0.8.24;
 ///         No trading switch. Pair is BUNKER/STRK on Uniswap v3, fee 1%.
 ///         This token is not STRK, not Starknet, and not StarkWare.
 contract Bunker {
-    string public constant name = "bunker mode";
+    string public constant name = "bunker STRK";
     string public constant symbol = "BUNKER";
     uint8 public constant decimals = 18;
     uint256 public constant totalSupply = 1_000_000_000 ether;

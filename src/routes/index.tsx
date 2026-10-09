@@ -9,13 +9,13 @@ function Home() {
     <SiteShell>
       <img
         src="/mark.jpg"
-        alt="bunker mode"
+        alt="bunker STRK"
         width={160}
         height={160}
         className="mt-10 h-36 w-36 rounded-full object-cover sm:h-40 sm:w-40"
       />
       <p className="mt-8 font-mono text-sm text-accent">ethereum · $BUNKER / $STRK</p>
-      <h1 className="mt-4 font-serif text-6xl leading-none sm:text-8xl">bunker mode</h1>
+      <h1 className="mt-4 font-serif text-6xl leading-none sm:text-8xl">bunker STRK</h1>
       <p className="mt-8 max-w-xl text-lg leading-relaxed text-fg">
         A fixed token about one post. The pair is real $STRK. The token is not $STRK, and the
         project is not Starknet.

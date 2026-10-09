@@ -27,7 +27,7 @@ export function SiteShell({ children }: { children: ReactNode }) {
       <header className="mx-auto flex max-w-3xl items-center justify-between gap-4 px-5 py-5">
         <Link to="/" className="flex items-center gap-3 text-accent">
           <Mark />
-          <span className="font-serif text-2xl leading-none text-fg">bunker mode</span>
+          <span className="font-serif text-2xl leading-none text-fg">bunker STRK</span>
         </Link>
         <nav className="flex gap-1">
           {links.map((item) => {
@@ -50,7 +50,7 @@ export function SiteShell({ children }: { children: ReactNode }) {
       </header>
       <main className="mx-auto max-w-3xl px-5 pb-16">{children}</main>
       <footer className="mx-auto max-w-3xl border-t border-line px-5 py-6 font-mono text-sm text-muted">
-        bunker mode is not Starknet, and $BUNKER is not $STRK.
+        bunker STRK is not Starknet, and $BUNKER is not $STRK.
       </footer>
     </div>
   );

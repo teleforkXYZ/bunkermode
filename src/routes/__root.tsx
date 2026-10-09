@@ -3,7 +3,7 @@ import { AuthProvider } from "@/lib/auth/provider";
 import { PreviewHostBridge } from "@/components/preview-host-bridge";
 import appCss from "../styles.css?url";
 
-const APP_NAME = "bunker mode";
+const APP_NAME = "bunker STRK";
 
 export const Route = createRootRoute({
   head: () => ({
@@ -14,7 +14,7 @@ export const Route = createRootRoute({
       {
         name: "description",
         content:
-          "bunker mode is a fixed Ethereum token paired with $STRK. It is not $STRK and not Starknet.",
+          "bunker STRK is a fixed Ethereum token paired with $STRK. It is not $STRK and not Starknet.",
       },
       { name: "theme-color", content: "#07051c" },
     ],

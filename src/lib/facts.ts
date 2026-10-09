@@ -1,5 +1,5 @@
 export const facts = {
-  name: "bunker mode",
+  name: "bunker STRK",
   symbol: "$BUNKER",
   chain: "Ethereum",
   pair: "$BUNKER / $STRK",
